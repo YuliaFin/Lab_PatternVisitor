@@ -1,0 +1,16 @@
+﻿  UnitTest1.cpp
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(15,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(23,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(43,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(51,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(59,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(67,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(76,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(90,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(97,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(104,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(111,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\UnitTest1\UnitTest1.cpp(118,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yulia\source\repos\Pattern\Pattern\Pattern.cpp(78): warning C4715: BinaryOperation::evaluate: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\yulia\source\repos\Pattern\x64\Debug\UnitTest1.lib и объект C:\Users\yulia\source\repos\Pattern\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\yulia\source\repos\Pattern\x64\Debug\UnitTest1.dll
