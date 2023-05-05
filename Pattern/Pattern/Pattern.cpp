@@ -145,6 +145,7 @@ private:
 	std::string const name_; // имя переменной
 };
 
+//Реализован класс CopySyntaxTree
 struct CopySyntaxTree : Transformer
 {
 	Expression* transformNumber(Number const* number)
