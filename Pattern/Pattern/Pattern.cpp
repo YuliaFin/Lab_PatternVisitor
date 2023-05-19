@@ -1,14 +1,6 @@
 ﻿
 #include <iostream>
 #include <cassert>
-#include <string> 
-using namespace std;
-
-struct Transformer;
-struct Number;
-struct BinaryOperation;
-struct FunctionCall;
-struct Variable;
 
 struct Expression //базовая абстрактная структура
 {
